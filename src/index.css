@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: 'Rajdhani', 'Segoe UI', Tahoma, sans-serif;
+  line-height: 1.4;
+  font-weight: 500;
+  color: #e8f5ff;
+  background-color: #050b1e;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 12% 18%, rgba(55, 117, 255, 0.24), transparent 36%),
+    radial-gradient(circle at 86% 82%, rgba(118, 62, 255, 0.2), transparent 34%),
+    linear-gradient(165deg, #060d24 0%, #090f28 34%, #0b132e 68%, #060a1f 100%);
+  overflow-x: hidden;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
