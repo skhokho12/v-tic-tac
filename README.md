@@ -4,8 +4,8 @@ A responsive Tic-Tac-Toe game built with React and Vite. Choose Player vs Player
 
 ## Project Links
 
-- **Live Demo:** [Netlify](vusim-tic-tac.netlify.app)
-- **GitHub Repository:** [GitHub]([https://github.com/your-username/your-repository](https://github.com/skhokho12/v-tic-tac))
+- **Live Demo:** [Netlify]vusim-tic-tac.netlify.app
+- **GitHub Repository:** [GitHub]https://github.com/skhokho12/v-tic-tac
 
 ## Features
 
